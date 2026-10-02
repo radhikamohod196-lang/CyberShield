@@ -1,0 +1,7 @@
+node_id,node_name,node_type,vulnerable,critical
+N1,Entry Server,Server,Yes,No
+N2,Internal Server,Server,No,No
+N3,Database,Database,No,Yes
+N4,Isolated PC,Workstation,Yes,No
+N5,Isolated Backup,Server,Yes,Yes
+N6,Unused Server,Server,No,No

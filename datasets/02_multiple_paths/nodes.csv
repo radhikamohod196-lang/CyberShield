@@ -1,0 +1,7 @@
+node_id,node_name,node_type,vulnerable,critical
+N1,Entry Server,Server,Yes,No
+N2,Path A Server,Server,No,No
+N3,Path B Server,Server,No,No
+N4,Path A Database,Database,No,Yes
+N5,Path B Database,Database,No,Yes
+N6,Critical Core,Server,No,Yes

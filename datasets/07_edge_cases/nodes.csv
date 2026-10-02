@@ -1,0 +1,6 @@
+node_id,node_name,node_type,vulnerable,critical
+N1,Single Entry Node,Server,false,false
+N2,Cycle Node A,Server,true,false
+N3,Cycle Node B,Server,false,false
+N4,Cycle Node C,Server,true,true
+N5,Dead End,Workstation,true,false

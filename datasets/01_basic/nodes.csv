@@ -1,0 +1,6 @@
+node_id,node_name,node_type,vulnerable,critical
+N1,Web Server,Server,No,No
+N2,Application Server,Server,No,No
+N3,Employee PC,Workstation,Yes,No
+N4,Customer Database,Database,No,Yes
+N5,Backup Server,Server,Yes,Yes

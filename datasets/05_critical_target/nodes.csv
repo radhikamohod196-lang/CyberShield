@@ -1,0 +1,7 @@
+node_id,node_name,node_type,vulnerable,critical
+N1,Compromised Web Server,Server,Yes,No
+N2,Application Server,Server,No,No
+N3,Authentication Server,Server,No,Yes
+N4,Customer Database,Database,No,Yes
+N5,Payment Server,Server,No,Yes
+N6,Monitoring Server,Server,No,No
